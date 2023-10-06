@@ -1,0 +1,4 @@
+$$
+\text{Spectral } \beta
+$$
+
