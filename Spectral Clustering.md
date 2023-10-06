@@ -1,4 +1,4 @@
 $$
-\text{Spectral } \beta
+\text{Spectral } \alpha_{\text{topG}}
 $$
 
