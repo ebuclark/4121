@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c539b4a00f46797a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order Statistics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61c444cb90db9b1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skip Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edbbf2c3b1272b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karger's Mincut.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "df0d58cf2b4c7f40",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Karger's Mincut.md",
+                "file": "Spectral Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karger's Mincut.md",
+                "file": "Spectral Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Karger's Mincut.md"
+                "file": "Spectral Clustering.md"
               }
             }
           }
@@ -184,20 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edbbf2c3b1272b5e",
+  "active": "df2421edc0f91900",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Karger's Mincut.md",
-    "img/Pasted image 20231029094511.png",
-    "img/Pasted image 20231029093848.png",
-    "img/Pasted image 20231029093419.png",
-    "img/Pasted image 20231029093109.png",
-    "img/Pasted image 20231029091954.png",
-    "Database Access.md",
     "Skip Lists.md",
-    "Order Statistics.md",
     "Spectral Clustering.md",
-    "img",
-    "img/Pasted image 20231010190321.png"
+    "Database Access.md",
+    "Order Statistics.md",
+    "img/Pasted image 20231010190321.png",
+    "img"
   ]
 }
