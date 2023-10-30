@@ -1,6 +1,6 @@
 # Center-based clustering
 
-Clustering  algorithms based around centers based on some distance metric. E.g. k-means clustering finds a partition $C = {C_1,\dots,C_k}$ for a set of data points $A = {\mathbf{a_1},\dots,\mathbf{a_k}}$ into $k$ clusters with respective centers $\mathbf{c_k},,\dots,\mathbf{c_k}$ 
+Clustering  algorithms based around centers based on some distance metric. E.g. k-means clustering finds a partition $C = {C_1,\dots,C_k}$ for a set of data points $A = {\mathbf{a_1},\dots,\mathbf{a_k}}$ into $k$ clusters with respective centers $\mathbf{c_1},\dots,\mathbf{c_k}$.
 
 The goal is to minimise
 $$
